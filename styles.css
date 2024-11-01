@@ -131,13 +131,13 @@
     color: #b3b3b3;
 }
 
-.image-content {
+.image-content1 {
     width: 40%;
 }
 
-.image-content img {
+.image-content1 img {
     width: 100%;
-    height: auto;
+    height: 50%;
     border-radius: 5px;
     object-fit: cover;
 }
